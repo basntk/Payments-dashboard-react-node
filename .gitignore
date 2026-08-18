@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 # Node
 node_modules/
-=======
-# Logs
-logs
-*.log
->>>>>>> df4c0c719f6f22749053923f7fac41af1c02db83
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
